@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "تبسة",
+        "type": "ولاية/مدينة",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "الشريعة",
+        "type": "مدينة/بلدية",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "بئر العاتر",
+        "type": "بلدية",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "سيدي عبيد",
+        "type": "منطقة/مشتة محتملة",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "دوار المزرعة",
+        "type": "دوار",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "كاف النسورة",
+        "type": "موضع/منطقة",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "حجة زورة العراوي",
+        "type": "موضع/منطقة",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "دوار تازينت",
+        "type": "دوار",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "تافروست",
+        "type": "موضع/منطقة",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "القعقاع",
+        "type": "موضع/منطقة",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "الماء الأبيض",
+        "type": "بلدية/منطقة",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "دوار قريقر",
+        "type": "دوار",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "ذراع الحنوش",
+        "type": "موضع/منطقة",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "دوار بجن",
+        "type": "دوار",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "دوار بجرة الأزب",
+        "type": "دوار",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "جبل القفعة",
+        "type": "جبل",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "الحمية السوداء",
+        "type": "موضع/منطقة",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "دوار ثليجان",
+        "type": "دوار",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "وادي سوف",
+        "type": "منطقة",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "place_id": null,
+        "name": "تونس",
+        "type": "دولة/مدينة بحسب السياق",
+        "commune": null,
+        "historical_name": null,
+        "coordinates_status": "غير متوفرة/غير موثقة في السجل"
+      }
+    }
+  ]
+}
